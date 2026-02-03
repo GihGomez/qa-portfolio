@@ -1,0 +1,5 @@
+id,area,titulo,pre_condicao,passos,resultado_esperado,prioridade
+CT-LOGIN-001,Login,Login válido,Usuario demo,"Acessar; Inserir usuário; Inserir senha; Login","Vai para lista de produtos",Alta
+CT-LOGIN-002,Login,Senha inválida,,"Acessar; Usuário válido; Senha inválida; Login","Mensagem de erro e permanece",Alta
+CT-CHK-001,Checkout,Compra 1 item,,"Login; Adicionar produto; Carrinho; Checkout; Confirmar","Pedido confirmado com número",Alta
+CT-CHK-002,Checkout,CEP inválido,,"Login; Adicionar produto; Checkout; CEP inválido","Mensagem específica de CEP",Média

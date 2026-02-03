@@ -1,5 +1,5 @@
 
-# Portfólio de QA Manual Jr — Luana Ferreira Santos
+# Portfólio de QA Manual Jr — Giovanna Ferreira Santos
 
 > **Objetivo**: demonstrar, de forma simples e profissional, conhecimentos práticos e teóricos de QA Manual Jr.
 

@@ -1,0 +1,8 @@
+ID,Cenario,Criticidade,Frequencia,Prioridade,Automatizar
+1,Login,Alta,Alta,Alta,Sim
+2,Checkout,Alta,Alta,Alta,Sim
+3,Cadastro,Alta,Media,Alta,Sim
+4,Filtros de busca,Media,Alta,Media,Sim
+5,Banner promocional,Baixa,Baixa,Baixa,Nao
+6,Texto institucional,Baixa,Baixa,Baixa,Nao
+7,Recuperacao de senha,Alta,Media,Alta,Sim

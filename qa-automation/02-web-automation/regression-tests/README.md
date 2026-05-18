@@ -16,6 +16,6 @@ Regression tests garantem que funcionalidades antigas continuam funcionando apó
 
 Executados:
 
-- diariamente;
-- antes de release;
-- após grandes mudanças.
+- diariamente
+- antes de release
+- após grandes mudanças

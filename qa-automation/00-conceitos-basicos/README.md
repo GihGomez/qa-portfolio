@@ -13,7 +13,7 @@
 
 Demonstrar entendimento dos princípios de automação antes da implementação técnica, incluindo:
 
-- quando automatizar;
-- o que automatizar;
-- como estruturar uma suíte escalável;
-- como reduzir manutenção e flaky tests.
+- quando automatizar
+- o que automatizar
+- como estruturar uma suíte escalável
+- como reduzir manutenção e flaky tests

@@ -8,10 +8,10 @@ Base da pirâmide.
 
 ### Características:
 
-- rápidos;
-- baixo custo;
-- executados com frequência;
-- isolados.
+- rápidos
+- baixo custo
+- executados com frequência
+- isolados
 
 ### Objetivo:
 
@@ -19,8 +19,8 @@ Validar pequenas unidades de código.
 
 ### Exemplo:
 
-- validação de cálculo;
-- validação de regras de negócio.
+- validação de cálculo
+- validação de regras de negócio
 
 ---
 
@@ -30,8 +30,8 @@ Camada intermediária.
 
 ### Características:
 
-- mais próximos do comportamento real;
-- validam comunicação entre serviços.
+- mais próximos do comportamento real
+- validam comunicação entre serviços
 
 ### Objetivo:
 
@@ -39,9 +39,9 @@ Garantir integração entre sistemas.
 
 ### Exemplo:
 
-- criação de usuário;
-- autenticação;
-- consulta de pedidos.
+- criação de usuário
+- autenticação
+- consulta de pedidos
 
 ---
 
@@ -51,9 +51,9 @@ Topo da pirâmide.
 
 ### Características:
 
-- mais lentos;
-- maior custo;
-- maior sensibilidade a mudanças.
+- mais lentos
+- maior custo
+- maior sensibilidade a mudanças
 
 ### Objetivo:
 
@@ -61,9 +61,9 @@ Validar fluxo completo do usuário.
 
 ### Exemplo:
 
-- login;
-- checkout;
-- cadastro completo.
+- login
+- checkout
+- cadastro completo
 
 ---
 
@@ -71,6 +71,6 @@ Validar fluxo completo do usuário.
 
 Uma estratégia saudável possui:
 
-- muitos testes unitários;
-- quantidade moderada de testes de API;
+- muitos testes unitários
+- quantidade moderada de testes de API
 - poucos testes UI, focados em fluxos críticos.

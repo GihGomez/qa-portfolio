@@ -22,8 +22,8 @@ Thread.sleep(5000);
 
 Preferir:
 
-- explicit waits;
-- smart waits.
+- explicit waits
+- smart waits
 
 ---
 
@@ -33,9 +33,9 @@ Evitar duplicação.
 
 Utilizar:
 
-- Page Objects;
-- Helpers;
-- Fixtures.
+- Page Objects
+- Helpers
+- Fixtures
 
 ---
 
@@ -43,10 +43,10 @@ Utilizar:
 
 Sempre registrar:
 
-- screenshots;
-- logs;
-- vídeos;
-- relatórios.
+- screenshots
+- logs
+- vídeos
+- relatórios
 
 ---
 
@@ -54,9 +54,9 @@ Sempre registrar:
 
 Evitar flaky tests através de:
 
-- seletores estáveis;
-- sincronização correta;
-- isolamento de cenários.
+- seletores estáveis
+- sincronização correta
+- isolamento de cenários
 
 ---
 
@@ -66,7 +66,7 @@ Automação é software.
 
 Precisa de:
 
-- refatoração;
-- code review;
-- versionamento;
-- documentação.
+- refatoração
+- code review
+- versionamento
+- documentação

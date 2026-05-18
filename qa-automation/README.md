@@ -14,12 +14,8 @@
 - [08 Relatórios & Evidências](08-reports-evidences/README.md)
 - [09 Métricas de Automação](09-metrics/README.md)
 - [10 Técnicas de Projeto de Teste (BVA, EP, Tabela de Decisão, Pairwise)](10-test-design-techniques/README.md)
-- [11 Performance Testing](11-performance-testing/README.md)
-- [12 Boas Práticas de Código e Organização](12-code-quality/README.md)
+- [11 Boas Práticas de Código e Organização](11-code-quality/README.md)
 - [Pirâmide de Testes](diag-piramide/README.md)
 
 ## 🧭 Como navegar
 Comece pelos **Conceitos** → veja o **Plano de Automação** → explore **Web, API e Mobile** → confira **BDD + Patterns** → analise **Pipelines e Relatórios** → finalize com **Métricas**.
-
-## 📌 Observação
-Exemplos utilizam aplicações públicas de demonstração (ex.: **Sauce Demo** para web, **ReqRes** para API, apps open-source para mobile). Não há exposição de dados proprietários.

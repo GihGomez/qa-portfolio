@@ -27,19 +27,19 @@ Um cenário é forte candidato quando:
 
 ### Alta prioridade
 
-- login;
-- checkout;
-- cadastro;
-- pagamentos.
+- login
+- checkout
+- cadastro
+- pagamentos
 
 ### Média prioridade
 
-- filtros;
-- busca;
-- notificações.
+- filtros
+- busca
+- notificações
 
 ### Baixa prioridade
 
-- banners;
-- textos estáticos;
-- elementos visuais simples.
+- banners
+- textos estáticos
+- elementos visuais simples

@@ -42,9 +42,9 @@ Separação entre lógica e massa de dados.
 
 Login com:
 
-- usuário válido;
-- senha inválida;
-- campos vazios.
+- usuário válido
+- senha inválida
+- campos vazios
 
 ---
 
@@ -66,7 +66,7 @@ Combinação de múltiplas abordagens.
 
 ### Vantagens
 
-- maior flexibilidade;
-- melhor escalabilidade.
+- maior flexibilidade
+- melhor escalabilidade
 
 É o modelo mais utilizado em projetos reais.

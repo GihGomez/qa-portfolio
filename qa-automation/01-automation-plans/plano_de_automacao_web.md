@@ -12,18 +12,18 @@ Objetivo: automatizar fluxos críticos do usuário.
 
 ### Em escopo
 
-- login;
-- logout;
-- listagem de produtos;
-- adição ao carrinho;
-- checkout;
-- finalização de compra.
+- login
+- logout
+- listagem de produtos
+- adição ao carrinho
+- checkout
+- finalização de compra
 
 ### Fora do escopo
 
-- testes visuais;
-- testes exploratórios;
-- conteúdo estático.
+- testes visuais
+- testes exploratórios
+- conteúdo estático
 
 ---
 
@@ -73,9 +73,9 @@ Executada antes de release.
 
 ## 5. Critérios de sucesso
 
-- taxa de sucesso ≥ 95%;
-- execução sem flaky tests;
-- tempo máximo de execução ≤ 10 minutos.
+- taxa de sucesso ≥ 95%
+- execução sem flaky tests
+- tempo máximo de execução ≤ 10 minutos
 
 ---
 

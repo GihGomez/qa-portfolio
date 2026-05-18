@@ -1,0 +1,4 @@
+id,usuario,senha,tipo
+1,usuario_valido,123456,valido
+2,usuario_bloqueado,123456,bloqueado
+3,usuario_fake,senha_fake,invalido
